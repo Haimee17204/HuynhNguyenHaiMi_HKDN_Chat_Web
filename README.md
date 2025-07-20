@@ -1,19 +1,19 @@
-# ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+MERN Stack (MongoDB, Express, React, Node.js)
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+Socket.io – để xử lý tin nhắn real-time
 
-Highlights:
+TailwindCSS + Daisy UI – giao diện đẹp, nhẹ
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+JWT – xác thực và phân quyền người dùng
+
+Zustand – quản lý state toàn cục một cách đơn giản
+
+Cloudinary – để lưu trữ ảnh đại diện
+
+Xử lý lỗi – cả phía client và server
+
+Hiển thị trạng thái người dùng online
 
 ### Setup .env file
 
